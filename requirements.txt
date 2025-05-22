@@ -1,0 +1,9 @@
+torch
+torchvision
+monai
+numpy
+matplotlib
+pandas
+tqdm
+scikit-learn
+opencv-python

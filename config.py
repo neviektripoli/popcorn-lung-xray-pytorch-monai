@@ -1,0 +1,8 @@
+BATCH_SIZE = 16
+NUM_EPOCHS = 20
+LEARNING_RATE = 1e-4
+NUM_CLASSES = 2
+IMAGE_SIZE = (224, 224)
+DATA_DIR = "./data"
+CHECKPOINT_DIR = "./checkpoints"
+LOG_DIR = "./logs"
